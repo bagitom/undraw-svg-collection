@@ -1,7 +1,7 @@
 # undraw-svg-collection
 
 This repository contains a collection of customizable SVGs from [unDraw](https://undraw.co/), a constantly updated collection of beautiful SVG images that you can use completely free and without attribution.
-
+### It's a fork of balazser/undraw-svg-collection The only reason to create this fork, to have an index json including title, tags, related fields
 ## Usage
 
 To use these SVGs in your project:
@@ -10,7 +10,7 @@ To use these SVGs in your project:
 2. If you are using a package manager like npm or yarn, you can add this repository as a dependency. For example, using npm:
 
    ```sh
-   npm install --save balazser/undraw-svg-collection
+   npm install --save bagitom/undraw-svg-collection
    ```
 
 3. Add the SVG files to your project's assets directory.
